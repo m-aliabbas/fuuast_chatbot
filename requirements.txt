@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_core
+langchain_openai
+langgraph
+lightrag_hku
+openai
+pandas
+pydantic
+python-dotenv
+streamlit

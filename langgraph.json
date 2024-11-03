@@ -1,0 +1,16 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "engineer": "./agents/agent.py:graph"
+  },
+  "env": [
+    "OPENAI_API_KEY"
+  ],
+  "python_version": "3.11",
+  "dependencies": [
+    ".",
+    "langchain",
+    "langchain_openai",
+    "langchain_core"
+  ]
+}
